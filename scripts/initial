@@ -1,4 +1,0 @@
-CREATE DATABASE warehouse;
-CREATE SCHEMA bronze;
-CREATE SCHEMA silver;
-CREATE SCHEMA gold;
