@@ -1,4 +1,4 @@
-# sql-data-project
+# Snowflake-SQL-Data-Project
 
 ### This project aimed to take raw, messy data and turn it into insights a business can actually use to act on. 
 ### It covers everything from the building warehouse in  back-end layer to the analytical insights at the end.
