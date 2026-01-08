@@ -1,4 +1,4 @@
-# sql-data-warehouse-proj
+# sql-data-project
 
 ### This project aimed to take raw, messy data and turn it into insights a business can actually use to act on. 
 ### It covers everything from the building warehouse in  back-end layer to the analytical insights at the end.
